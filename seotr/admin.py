@@ -8,7 +8,7 @@ from seotr.models import (
 
 SEO_FIELDS = ('seo_title', 'meta_description', 'meta_keywords')
 
-admin.site.site_header = 'Maxident'
+admin.site.site_header = 'ESTE SAĞLIK'
 
 admin.site.register(KeywordsTr)
 

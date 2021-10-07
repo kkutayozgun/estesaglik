@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-04 18:55+0300\n"
+"POT-Creation-Date: 2021-10-07 16:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,84 +83,79 @@ msgid "TR Landing Page"
 msgstr ""
 
 #: .\templates\components\about.html:8
-msgid "Maxident’e Hoş Geldiniz!"
-msgstr "Welcome to Maxident!"
+msgid "Este Sağlık Saç Ekim Merkezi’ne hoş geldiniz!"
+msgstr "Welcome to Este Health Hair Transplantation Center!"
 
 #: .\templates\components\about.html:10
 msgid ""
-"Maxident Ağız ve Diş Sağlığı Polikliniğinde tüm hastalarımızın estetik, ağız "
-"ve diş sağlığı süreçlerini kişi anatomisine özel ihtiyaçlar doğrultusunda "
-"alanında tecrübeli diş doktorlarımız ve yüksek teknoloji ekipmanlarımızdan "
+"Este Sağlık Saç Ekim Merkezi’nde tüm hastalarımızın saç sağlığı ve estetiği "
+"süreçlerini kişi anatomisine özel ihtiyaçlar doğrultusunda alanında "
+"tecrübeli diş doktorlarımız ve yüksek teknoloji ekipmanlarımızdan "
 "faydalanarak en yüksek standartlarda sunmaktayız. Tam donanımlı ve güncel "
-"teknolojilere sahip ağız, diş sağlığı ve estetiği parkurlarımızla sizin için "
-"en iyi sonuçları sunmak, gülüşünüz ile barışmanız için yanınızdayız!"
+"teknolojilere sahip saç ekimi ve estetiği parkurlarımızla sizin için en iyi "
+"sonuçları sunmak, kendinizi yeniden keşfetmeniz için yanınızdayız!"
 msgstr ""
-"In Maxident Oral and Dental Health Polyclinic, we offer the aesthetic, oral "
-"and dental health processes of all our patients at the highest standards by "
-"making use of our experienced dentists and high technology equipment in line "
-"with the needs of the individual anatomy. We are with you to provide the "
-"best results for you and to make peace with your smile with our fully "
-"equipped and state-of-the-art oral, dental health and aesthetic tracks!"
+"At Este Health Hair Transplantation Center, we offer the hair health and "
+"aesthetic processes of all our patients at the highest standards, using our "
+"experienced dentists and high-tech equipment in line with the needs of the "
+"individual anatomy. We are here to offer you the best results in our fully "
+"equipped and state-of-the-art hair transplant and aesthetic treatment areas "
+"and to help you rediscover yourself!"
 
 #: .\templates\components\about.html:239
-msgid "Diş sağlığı ve estetiğinde size özel çözümler!"
-msgstr "Dental health and aesthetic solutions!"
+msgid "Saç sağlığı ve estetiğinde size özel çözümler!"
+msgstr "Hair health and aesthetic solutions!"
 
 #: .\templates\components\about.html:241
 msgid ""
-"Ağız ve diş sağlığı süreci yönetiminde hastalarımızın gülüşünü yeniden "
+"Saç sağlığı ve estetiği süreçlerimizde hastalarımızın görünümünü yeniden "
 "keşfetmesi için güncel tedavi yöntemleri ve teknolojiler ile çalışıyor, "
 "kişiye özel çözümler sunuyoruz."
 msgstr ""
-"We work with up-to-date treatment methods and technologies and offer "
-"personalized solutions so that our patients can rediscover their smile in "
-"the management of the oral and dental health process."
+"In our hair health and aesthetic processes, we work with up-to-date "
+"treatment methods and technologies and offer personalized solutions so that "
+"our patients can rediscover their appearance."
 
 #: .\templates\components\about.html:251
-#: .\templates\components\banner_form.html:34
+#: .\templates\components\banner_form.html:33
 #: .\templates\components\contact_form.html:32
-msgid "Diş Beyazlatma"
-msgstr "Teeth whitening"
+#: .\templates\components\hairsection.html:23
+msgid "Saç Ekimi"
+msgstr "Hair Transplant"
 
 #: .\templates\components\about.html:255
-#: .\templates\components\banner_form.html:35
+#: .\templates\components\banner_form.html:34
 #: .\templates\components\contact_form.html:33
-msgid "İmplant Tedavisi"
-msgstr "Dental Implant"
+#: .\templates\components\hairsection.html:37
+msgid "Sakal Ekimi"
+msgstr "Beard Transplant"
 
 #: .\templates\components\about.html:260
+#: .\templates\components\banner_form.html:35
 #: .\templates\components\contact_form.html:34
-msgid "Zirkonyum Kaplama"
-msgstr "Zirconium Coating"
+#: .\templates\components\hairsection.html:51
+msgid "Kaş Ekimi"
+msgstr "Eyebrow Transplant"
 
 #: .\templates\components\about.html:265
-#: .\templates\components\banner_form.html:36
-#: .\templates\components\contact_form.html:35
-msgid "Ortodonti"
-msgstr "Orthodontics"
+msgid "FUE Saç Ekimi"
+msgstr "FUE Hair Transplant"
 
 #: .\templates\components\about.html:271
-#: .\templates\components\banner_form.html:39
-#: .\templates\components\contact_form.html:36
-msgid "3D Tomografi"
-msgstr "3D Tomography"
+msgid "Safir FUE Saç Ekimi"
+msgstr "Sapphire FUE Hair Transplant"
 
 #: .\templates\components\about.html:275
-#: .\templates\components\banner_form.html:38
-#: .\templates\components\contact_form.html:37
-msgid "Beyaz Dolgu"
-msgstr "Dental Composite"
+msgid "DHI FUE Saç Ekimi"
+msgstr "DHI FUE Hair Transplant"
 
 #: .\templates\components\about.html:279
-#: .\templates\components\banner_form.html:37
-#: .\templates\components\contact_form.html:38
-msgid "Kanal Tedavisi"
-msgstr "Root Canal Treatment"
+msgid "Tıraşsız Saç Ekimi"
+msgstr "Unshaven Hair Transplant"
 
 #: .\templates\components\about.html:283
-#: .\templates\components\contact_form.html:39
-msgid "Çocuk Diş Hekimliği"
-msgstr "Pediatric Dentistry"
+msgid "PRP Saç Tedavisi"
+msgstr "PRP Hair Treatment"
 
 #: .\templates\components\about.html:288
 msgid "Detaylı bilgi için bize ulaşın"
@@ -171,13 +166,13 @@ msgid "ÜCRETSİZ"
 msgstr "FREE"
 
 #: .\templates\components\banner.html:27
-msgid "Web’e özel Diş Analizi"
-msgstr "Web-specific Dental Analysis"
+msgid "Web’e özel Saç Analizi"
+msgstr "Web-specific Hair Analysis"
 
 #: .\templates\components\banner_form.html:16
 #: .\templates\components\contact_form.html:15
 msgid "Formu doldurun, fırsatı yakalayın!"
-msgstr "Fill in the form, take advantage of the opportunity!"
+msgstr "Fill in the form and take advantage of the opportunity!"
 
 #: .\templates\components\banner_form.html:21
 #: .\templates\components\contact_form.html:20
@@ -194,40 +189,36 @@ msgstr "Surname"
 msgid "Tedavi Tercihiniz"
 msgstr "Treatment Selection"
 
-#: .\templates\components\banner_form.html:33
-msgid "Muayene"
-msgstr "Medical Examination"
-
-#: .\templates\components\banner_form.html:45
-#: .\templates\components\contact.html:20
-#: .\templates\components\contact_form.html:45
+#: .\templates\components\banner_form.html:41
+#: .\templates\components\contact.html:21
+#: .\templates\components\contact_form.html:40
 msgid "E-posta"
 msgstr "E-mail"
 
-#: .\templates\components\banner_form.html:50
-#: .\templates\components\contact.html:27
-#: .\templates\components\contact_form.html:50
+#: .\templates\components\banner_form.html:46
+#: .\templates\components\contact.html:28
+#: .\templates\components\contact_form.html:45
 msgid "Telefon"
 msgstr "Phone"
 
-#: .\templates\components\banner_form.html:55
-#: .\templates\components\contact_form.html:55
+#: .\templates\components\banner_form.html:51
+#: .\templates\components\contact_form.html:50
 msgid "Bize Nerden Ulaştınız?"
 msgstr "How did you reach us?"
 
-#: .\templates\components\banner_form.html:67
-#: .\templates\components\contact_form.html:74
+#: .\templates\components\banner_form.html:63
+#: .\templates\components\contact_form.html:69
 msgid ""
-"Lütfen <a href=\"https://maxident.com.tr/aydinlatma-metni/\" target=\"_blank"
-"\">KVKK Aydınlatma Metni</a> kapsamında kişisel verilerinizi Maxident ile "
-"paylaştığınızı onaylayınız."
+"Lütfen <a href=\"https://estesaglik.com/gizlilik-politikasi/ \" target="
+"\"_blank\">KVKK Aydınlatma Metni</a> kapsamında kişisel verilerinizi Este "
+"Sağlık ile paylaştığınızı onaylayınız."
 msgstr ""
-"Please confirm that you have shared your personal data with Maxident within "
-"the scope of <a href=\"https://maxident.com.tr/aydinlatma-metni/\" target="
-"\"_blank\">GDPR Privacy Policy.</a>"
+"Please confirm that you have shared your personal data with ESTE SAĞLIK "
+"within the scope of <a href=\"https://estesaglik.com/gizlilik-politikasi/\" "
+"target=\"_blank\">GDPR Privacy Policy.</a>"
 
-#: .\templates\components\banner_form.html:74
-#: .\templates\components\contact_form.html:81
+#: .\templates\components\banner_form.html:70
+#: .\templates\components\contact_form.html:76
 msgid "Gönder"
 msgstr "Send"
 
@@ -237,19 +228,19 @@ msgstr "We are here to help you!"
 
 #: .\templates\components\contact.html:10
 msgid ""
-"Diş sağlığınız veya estetik talepleriniz için yan tarafta yer alan formu "
+"Saç sağlığı ve estetiği talepleriniz için sağ tarafta yer alan formu "
 "doldurmanız yeterli. İletişim birimimiz en kısa süre içerisinde tarafınıza "
 "geri dönüş sağlayacaktır."
 msgstr ""
-"For your dental health or aesthetic requests, simply fill out the form on "
-"the side. Our communication unit will get back to you as soon as possible."
+"For your hair health and aesthetic requests, simply fill out the form on the "
+"right. Our communication unit will get back to you as soon as possible."
 
-#: .\templates\components\contact.html:34
+#: .\templates\components\contact.html:35
 msgid "Adresimiz"
 msgstr "Address"
 
-#: .\templates\components\contact_form.html:61
-#: .\templates\components\contact_form.html:63
+#: .\templates\components\contact_form.html:56
+#: .\templates\components\contact_form.html:58
 msgid "Mesajınız..."
 msgstr "Your message..."
 
@@ -259,90 +250,188 @@ msgstr "How can we help you?"
 
 #: .\templates\components\faq.html:11
 msgid ""
-"Diş sağlığı, gülüş tasarımı ve diş estetiği çözümleri konusunda uzman "
-"kadromuz ile yanınızdayız. Size hangi konuda yardımcı olmamızı istesiniz? "
-"Hemen yanıtlayalım."
+"Saç ekimi ve estetiği çözümleri konusunda uzman kadromuz ile yanınızdayız. "
+"Size hangi konuda yardımcı olmamızı istesiniz? Hemen yanıtlayalım."
 msgstr ""
-"We are with you with our expert staff in dental health, smile design and "
-"dental aesthetic solutions. What would you like us to assist you with? Let's "
-"answer right away."
+"We are with you with our expert staff in hair transplantation and aesthetic "
+"solutions. What would you like us to assist you with? Let's answer right "
+"away."
 
 #: .\templates\components\faq.html:26
-msgid "Web’e özel diş analizi nedir?"
-msgstr "What is web-specific dental analysis?"
+msgid "Web’e özel saç analizi nedir?"
+msgstr "What is web-specific hair analysis?"
 
 #: .\templates\components\faq.html:35
 msgid ""
-"Web’e özel ücretsiz diş analizi; sitemiz üzerinden doldurdukları form ile "
-"bize ulaşan hastalarımızın ağız ve diş sağlığı tedavileri öncesi Maxident "
-"uzmanları tarafından ücretsiz ve detaylı ağız ve diş sağlığı inceleme ve "
+"Web’e özel ücretsiz saç analizi; sitemiz üzerinden doldurdukları form ile "
+"bize ulaşan hastalarımızın saç, sakal veya kaş ekimi öncesi ESTE SAĞLIK "
+"uzmanları tarafından ücretsiz ve detaylı saç sağlığı inceleme ve "
 "değerlendirmesini kapsar. Detaylı bilgi için bize ulaşabilirsiniz."
 msgstr ""
-"Web-specific free dental analysis; It includes free and detailed oral and "
-"dental health examination and evaluation by Maxident specialists before the "
-"oral and dental health treatments of our patients who reach us with the form "
-"they fill out on our website. You can contact us for detailed information."
+"Web-specific free hair analysis; It includes free and detailed hair health "
+"examination and evaluation by ESTE HEALTH specialists before hair, beard or "
+"eyebrow transplantation of our patients who reach us with the form they fill "
+"out on our website. You can contact us for detailed information."
 
 #: .\templates\components\faq.html:47
-msgid "Nasıl Randevu Oluşturabilirim?"
-msgstr "How can I make an appointment?"
+msgid "Saç Ekimi nasıl yapılır?"
+msgstr "What is Hair Transplantation?"
 
-#: .\templates\components\faq.html:56
+#: .\templates\components\faq.html:57
 msgid ""
-"Randevu oluşturmak için çağrı merkezimizi (+90 264 502 85 05) aramanız veya "
-"whatsapp hattımız (+90 530 027 95 32) üzerinden bize ulaşmanız yeterli. "
+"Saç ekimi ameliyatı üç temel aşamaya ayrılır. Bunlardan ilkisaç köklerinin "
+"toplanmasıdır. Donör bölgeyi operasyon için hazırladıktan sonra uygun olan "
+"saç ekim yöntemi kullanılarak saç köklerinin toplanması sağlanır. Aynı "
+"zamanda bu aşamada köklere zarar vermemek çok önemlidir. Bu köklerin her "
+"birine greft adı verilir ve ortalama 2-3 saç kılı içerir."
+msgstr ""
+"Hair transplant surgery is divided into three basic stages. The first of "
+"these is the collection of hair roots. After preparing the donor area for "
+"the operation, the hair follicles are collected using the appropriate hair "
+"transplant method. At the same time, it is very important not to damage the "
+"roots at this stage. Each of these roots is called a graft and contains an "
+"average of 2-3 hairs."
+
+#: .\templates\components\faq.html:65
+msgid ""
+"İkinci aşama,kanalın açılmasıdır. Bölgeye göre uygun büyüklük ve derinlikte "
+"kanallar açılması saçların uzama oranını etkileyecektir. Bu açıdan ekilecek "
+"saç kökünün boyutu ve uzunluğu göz önünde alınarak uygun kanalların açılması "
+"önemlidir."
+msgstr ""
+"The second stage is the opening of the channel. Opening channels of "
+"appropriate size and depth according to the region will affect the rate of "
+"hair growth. In this respect, it is important to open the appropriate "
+"channels by considering the size and length of the hair follicle to be "
+"transplanted."
+
+#: .\templates\components\faq.html:72
+msgid ""
+"En doğal görüntüyü elde etmek için kanalın açısı da ayarlanmalıdır. Son "
+"aşamada ise toplanan kökler 40-45 derecede olan açık kanala yerleştirilerek "
+"saç ekimi operasyonunun tamamlanması sağlanır. Detaylı bilgi için bizimle "
+"iletişime geçebilirsiniz."
+msgstr ""
+"The angle of the channel should also be adjusted to obtain the most natural "
+"image. In the last stage, the collected roots are placed in the open canal "
+"at 40-45 degrees, and the hair transplant operation is completed. You can "
+"contact us for more information."
+
+#: .\templates\components\faq.html:85
+msgid "Hangi saç ekim yöntemini tercih etmeliyim?"
+msgstr "Which hair transplant method should I choose?"
+
+#: .\templates\components\faq.html:95
+msgid ""
+"Her yöntem, hastanın ihtiyaçlarına ve gereksinimlerine göre özel olarak "
+"seçilir. Doktorlar ve hastalar hangi yöntemin etkili olduğu konusunda ortak "
+"bir görüşe sahiptir."
+msgstr ""
+"Each method is specifically selected based on the needs and requirements of "
+"the patient. Doctors and patients have a common opinion about which method "
+"is effective."
+
+#: .\templates\components\faq.html:101
+msgid ""
+"Safir FUE saç ekimi yönteminde kanal açma aşamasında metal uç yerine özel "
+"safir uç kullanılır. Bu yöntemi benzersiz kılan, daha küçük mikro kanalların "
+"açılmasına izin veren, böylece iyileşme sürecini hızlandıran ve "
+"kabuklanmaları azaltan bu safir uçlardır."
+msgstr ""
+"In the Sapphire FUE hair transplantation method, a special sapphire tip is "
+"used instead of the metal tip during the grooving phase. What makes this "
+"method unique is these sapphire tips, which allow smaller micro-channels to "
+"be opened, thus speeding up the healing process and reducing crusting."
+
+#: .\templates\components\faq.html:108
+msgid ""
+"Direkt saç ekimi olarak da bilinen DHI saç ekimi yönteminde, choi adı "
+"verilen medikal bir kalem ile kök kanalının açılması ve ekilmesi işlemi aynı "
+"anda gerçekleştirilir. Ekilecek saç kökleri kısa süre dışarıda kaldığı için "
+"ekimin sağlıklı kalması daha olasıdır. Aynı zamanda bu yöntem tıraşsız saç "
+"ekimi olarak da anılmaktadır."
+msgstr ""
+"In the DHI hair transplantation method, also known as direct hair "
+"transplantation, the opening and transplanting of the root canal is "
+"performed simultaneously with a medical pen called choi. Since the hair "
+"follicles to be transplanted remain outside for a short time, it is more "
+"likely to remain healthy. At the same time, this method is also known as "
+"unshaven hair transplantation."
+
+#: .\templates\components\faq.html:117
+msgid ""
+"Normal FUE saç ekiminde ise mikro-motor kullanılarak toplanan ve ayrılan saç "
+"kökleri manuel olarak açılan bir kanala ekilir. Detaylı bilgi için bizimle "
+"iletişime geçebilirsiniz."
+msgstr ""
+"In normal FUE hair transplantation, hair follicles that are collected and "
+"separated using a micro-motor are transplanted into a manually opened canal. "
+"You can contact us for more information."
+
+#: .\templates\components\faq.html:129
+msgid "Este Sağlık hakkında bilgi almak istiyorum."
+msgstr "I want to get information about Este Sağlık."
+
+#: .\templates\components\faq.html:139
+msgid ""
+"Önce sağlık ilkesiyle, Saç ekimi ve Estetik alanında güncel ve en yeni "
+"teknoloji, konusunda Uzmanlaşmış doktorlarımız, tecrübeli akademik kadromuz "
+"ve nitelikli ekibi bir araya getirerek, tam teşekküllü hastanelerimizde, tam "
+"donanımlı ameliyathanelerimiz de 11 yıldır faaliyet gösteren Uluslararası "
+"sağlık hizmetleri sunuyoruz."
+msgstr ""
+"With the principle of health first, we offer international health services "
+"that have been operating for 11 years in our full-fledged hospitals and "
+"fully equipped operating rooms by bringing together the latest and latest "
+"technology in the field of Hair Transplantation and Aesthetics, our "
+"specialist doctors, our experienced academic staff and a qualified team."
+
+#: .\templates\components\faq.html:147
+msgid ""
+"Saç ekimi ve Estetik uygulamalarında Uluslararası kalite standartlara ulaşıp "
+"ISO 9001-2008 sertifikasını alarak sunduğu sağlık hizmeti kalitesini "
+"tescillemiştir. Ülkemize, yurt dışından sağlık turizmi amacıyla gelen "
+"misafirlerimize sağlık hizmetlerinin yanı sıra, havalimanından karşılama, "
+"konaklama, tercüman eşliğinde İstanbul’un tarihi ve kültürel zenginliklerini "
+"de görme fırsatını sağlayarak, konuklarımızı VIP kalitesinde ağırlamaktayız."
+msgstr ""
+"It has registered the quality of health service it offers by reaching "
+"international quality standards in hair transplantation and aesthetic "
+"applications and obtaining ISO 9001-2008 certificate. We host our guests in "
+"VIP quality by providing our guests who come to our country from abroad for "
+"health tourism purposes, as well as the opportunity to see the historical "
+"and cultural riches of Istanbul, accompanied by a welcome from the airport, "
+"accommodation, and an interpreter."
+
+#: .\templates\components\faq.html:156
+msgid ""
+"100’e yakın irtibat ofisleriyle dünya coğrafyasında hedeflenen bilinirliğe "
+"ulaşma çalışmaları ile kalite yolculuğuna devam etmekte ve JCI akreditasyon "
+"çalışmalarını sürdürmektedir."
+msgstr ""
+"With its nearly 100 liaison offices, it continues its quality journey with "
+"its efforts to reach the targeted awareness in the world geography and "
+"continues its JCI accreditation studies."
+
+#: .\templates\components\faq.html:168
+msgid "Nasıl Randevu oluşturabilirim?"
+msgstr "How can I create an appointment?"
+
+#: .\templates\components\faq.html:177
+msgid ""
+"Randevu oluşturmak için çağrı merkezimizi (+90 532 475 37 83) aramanız veya "
+"whatsapp hattımız (+90 542 541 37 83) üzerinden bize ulaşmanız yeterli. "
 "İletişim birimimiz konuyla ilgili sizi bilgilendirecektir."
 msgstr ""
-"To make an appointment, simply call our call center (+90 264 502 85 05) or "
-"contact us via our whatsapp line (+90 530 027 95 32). Our communication unit "
+"To make an appointment, simply call our call center (+90 532 475 37 83) or "
+"contact us via our whatsapp line (+90 542 541 37 83). Our communication unit "
 "will inform you about the issue."
 
-#: .\templates\components\faq.html:67
-msgid "Ödeme yöntemi kolaylıkları nelerdir?"
-msgstr "What are the payment method conveniences?"
-
-#: .\templates\components\faq.html:76
-msgid ""
-"Maxident tedavi çözümlerinden faydalanan tüm hastalarımız için vadeli ödeme "
-"seçeneklerimiz bulunmaktadır. Ödeme sürecini talebiniz doğrultusunda "
-"özelleştirebiliyoruz. Detaylı bilgi için çağrı merkezimiz (+90 264 502 85 "
-"05) veya whatsapp hattımız (+90 530 027 95 32) üzerinden bize "
-"ulaşabilirsiniz."
-msgstr ""
-"We have deferred payment options for all our patients who benefit from "
-"Maxident treatment solutions. We can customize the payment process according "
-"to your request. For detailed information, you can contact us via our call "
-"center (+90 264 502 85 05) or whatsapp line (+90 530 027 95 32)."
-
-#: .\templates\components\faq.html:88
-msgid "Özel sağlık sigortaları geçerli mi?"
-msgstr "Is private health insurance valid?"
-
-#: .\templates\components\faq.html:97
-msgid ""
-"Detaylı bilgi için çağrı merkezimiz (+90 264 502 85 05) veya whatsapp "
-"hattımız (+90 530 027 95 32) üzerinden bize ulaşabilirsiniz."
-msgstr ""
-"For detailed information, you can contact us via our call center (+90 264 "
-"502 85 05) or whatsapp line (+90 530 027 95 32)."
-
-#: .\templates\components\faq.html:107
-msgid "Polikliniğinize nasıl ulaşabilirim?"
-msgstr "How can I reach your outpatient clinic?"
-
-#: .\templates\components\faq.html:116
-msgid ""
-"Adresimiz; Arabacıalanı Mahallesi, 608. Sokak, No:15 Serdivan Agora AVM "
-"içerisindedir."
-msgstr ""
-"Our address; It is in Arabacıalanı Mahallesi, 608. Sokak, No:15 Serdivan "
-"Agora AVM."
-
-#: .\templates\components\faq.html:126
+#: .\templates\components\faq.html:188
 msgid "Merak ettiğiniz diğer sorular için bize ulaşın."
 msgstr "Contact us for other questions you are curious about."
 
-#: .\templates\components\faq.html:126 .\templates\components\header.html:21
+#: .\templates\components\faq.html:188 .\templates\components\header.html:18
 msgid "İletişim"
 msgstr "Contact"
 
@@ -358,85 +447,81 @@ msgstr "Write us "
 msgid "Bizi Arayın "
 msgstr "Call us "
 
+#: .\templates\components\footer.html:48
+msgid "KVKK"
+msgstr "GDPR"
+
+#: .\templates\components\hairsection.html:9
+msgid "Kendinizi Yeniden Keşfedin"
+msgstr "Rediscover Yourself"
+
+#: .\templates\components\hairsection.html:11
+msgid ""
+"Este Sağlık Saç Ekim Merkezi, tüm tedavi süreçlerinde en yüksek standartlar "
+"ve teknolojilerle hizmet sunmaktadır."
+msgstr ""
+"Este Health Hair Transplantation Center provides services with the highest "
+"standards and technologies in all treatment processes."
+
+#: .\templates\components\hairsection.html:25
+msgid ""
+"Saçınızın donör bölgesi ve anatomik görünümünü koruyarak daha sık, doğal ve "
+"güçlü saçlar için size özel tedavi çözümleri ile görünüşünüzü yeniliyoruz!"
+msgstr ""
+"We renew your appearance with special treatment solutions for thicker, "
+"natural and strong hair while preserving the donor area and anatomical "
+"appearance of your hair!"
+
+#: .\templates\components\hairsection.html:39
+msgid ""
+"Sakal veya bıyık ekimi yapılacak bölgenizin doğal çıkış yönüne uyumlu ve "
+"estetik görünümünüzü doğallık ile bütünleştiren çözümler sunuyoruz!"
+msgstr ""
+"We offer solutions that are compatible with the natural direction of your "
+"beard or mustache transplant area and integrate your aesthetic appearance "
+"with naturalness!"
+
+#: .\templates\components\hairsection.html:53
+msgid ""
+"Kaş ekim sürecini anatomik yapınıza uyumlu, mimiklerinizin doğallığını ve "
+"estetiğini koruyacak şekilde planlıyor ve talepleriniz doğrultusunda "
+"uyguluyoruz."
+msgstr ""
+"We plan the eyebrow transplantation process in a way that is compatible with "
+"your anatomical structure and preserves the naturalness and aesthetics of "
+"your facial expressions, and we apply it in line with your demands."
+
+#: .\templates\components\hairsection.html:66
+msgid "Detaylı bilgi için bizi arayın"
+msgstr "Call us for detailed information"
+
+#: .\templates\components\hairsection.html:71
+msgid "Detaylı bilgi için bize yazın "
+msgstr "Write us for detailed information"
+
 #: .\templates\components\header.html:15
 msgid "Hakkımızda"
 msgstr "About Us"
 
-#: .\templates\components\header.html:17
-msgid "Diş Sağlığı ve Estetiği "
-msgstr "Dental Health and Aesthetics"
+#: .\templates\components\header.html:16
+msgid "Saç Ekimi "
+msgstr "Hair Transplant"
 
-#: .\templates\components\header.html:19
+#: .\templates\components\header.html:17
 msgid "SSS"
 msgstr "FAQ"
 
-#: .\templates\components\header.html:23
+#: .\templates\components\header.html:19
 msgid "Hemen Arayın "
-msgstr "Call Now"
-
-#: .\templates\components\toothsection.html:9
-msgid "Gülüşünüzle Barışın"
-msgstr "Discover your smile!"
-
-#: .\templates\components\toothsection.html:11
-msgid ""
-"Maxident Ağız ve Diş Sağlığı Polikliniği, tüm tedavi süreçlerinde en yüksek "
-"standartlar ve teknolojilerle hizmet sunmaktadır."
-msgstr ""
-"Maxident Oral and Dental Health Polyclinic provides services with the "
-"highest standards and technologies in all treatment processes."
-
-#: .\templates\components\toothsection.html:23
-msgid "Diş Sağlığı"
-msgstr "Dental health"
-
-#: .\templates\components\toothsection.html:25
-msgid ""
-"Diş sağlığınızı koruyarak daha ışıltılı ve beyaz bir gülümseme için size "
-"özel tedavi çözümleri ile gülüşünüzü yeniliyoruz!"
-msgstr ""
-"We renew your smile with special treatment solutions for a brighter and "
-"whiter smile while protecting your dental health!"
-
-#: .\templates\components\toothsection.html:36
-msgid "Diş Estetiği"
-msgstr "Dental Aesthetics"
-
-#: .\templates\components\toothsection.html:38
-msgid ""
-"Dişlerinizin görünüşünü anatominize özel analiz ve estetik çözümlerimiz ile "
-"yeniliyor, size özel yeni gülümsemenizi tasarlıyoruz."
-msgstr ""
-"We renew the appearance of your teeth with our analysis and aesthetic "
-"solutions specific to your anatomy, and we design your new smile."
-
-#: .\templates\components\toothsection.html:50
-msgid "Cerrahi Çözümler"
-msgstr "Surgical Solutions"
-
-#: .\templates\components\toothsection.html:52
-msgid ""
-"Sağlıklı bir gülümseme için ağız, çene ve diş uzmanı profesyonellerimiz ile "
-"dişlerinizin birbiriyle olan uyumunu yeniliyoruz."
-msgstr ""
-"For a healthy smile, we renew the harmony of your teeth with each other with "
-"our mouth, jaw and dental specialist professionals."
-
-#: .\templates\components\toothsection.html:65
-msgid "Detaylı bilgi için bizi arayın"
-msgstr "Call us for detailed information"
-
-#: .\templates\components\toothsection.html:70
-msgid "Detaylı bilgi için bize yazın "
-msgstr "Write us for detailed information"
+msgstr "Call Us"
 
 #: .\templates\components\trustedby.html:10
 msgid ""
-"Kişiye özel diş sağlığı ve estetik çözümlerimiz ile tedavi yolculuğunuz "
+"Kişiye özel saç, sakal ve kaş ekimi çözümlerimiz ile estetik yolculuğunuz "
 "boyunca yanınızdayız. Yüksek poliklinik donanımı, tecrübeli ekibimiz ve hiç "
 "eksik etmeyeceğimiz güler yüzümüzle hizmetinizdeyiz."
 msgstr ""
-"We are with you throughout your treatment journey with our personalized "
-"dental health and aesthetic solutions. We are at your service with our high "
-"polyclinic equipment, our experienced team and our smiling face that we will "
-"never miss."
+"We are with you throughout your aesthetic journey with our personalized "
+"hair, beard and eyebrow transplant solutions. We are at your service with "
+"our high polyclinic equipment, our experienced team and our smiling face "
+"that we will never miss."

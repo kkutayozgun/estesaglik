@@ -35,7 +35,7 @@ def handle_contact_form(request):
             redirectkey = request.POST.get('redirectkey')
 
             email_template = get_template('emailtemps/contact_email_template.html')
-            subject = f"Webozel Maxident {firstname} {lastname} tarafından mesaj alındı"
+            subject = f"Este Sağlık Webözel {firstname} {lastname} tarafından mesaj alındı"
 
             context = {
                 'firstname': firstname,

@@ -9,8 +9,8 @@
                 <h2 class="display-4">{% trans 'Size nasıl yardımcı olabiliriz?' %} </h2>
                 <p class="w-md-60 mx-auto mb-0 lead">
                     {% blocktrans trimmed %}
-                    Diş sağlığı, gülüş tasarımı ve diş estetiği çözümleri konusunda uzman kadromuz 
-                    ile yanınızdayız. Size hangi konuda yardımcı olmamızı istesiniz? Hemen yanıtlayalım.
+                    Saç ekimi ve estetiği çözümleri konusunda uzman kadromuz ile yanınızdayız. 
+                    Size hangi konuda yardımcı olmamızı istesiniz? Hemen yanıtlayalım.
                     {% endblocktrans %}                   
                 </p>
              </div>
@@ -23,7 +23,7 @@
                    <div class="card-header accordion-header">
                       <h5 class="mb-0">
                          <button class="btn btn-link btn-block d-flex justify-content-between accordion-collapse-btn collapsed" data-toggle="collapse" data-target="#faq-accordion-1" aria-expanded="false" aria-controls="faq-accordion-1">
-                         {% trans 'Web’e özel diş analizi nedir?' %}
+                         {% trans 'Web’e özel saç analizi nedir?' %}
                          <span class="accordion-arrow">
                          <span class="fa fa-angle-down accordion-arrow-inner"></span>
                          </span>
@@ -33,9 +33,9 @@
                    <div id="faq-accordion-1" class="collapse" data-parent="#faq-accordion">
                         <div class="card-body accordion-body">
                             {% blocktrans trimmed %}
-                            Web’e özel ücretsiz diş analizi; sitemiz üzerinden doldurdukları form ile bize ulaşan hastalarımızın ağız ve diş sağlığı tedavileri 
-                            öncesi Maxident uzmanları tarafından ücretsiz ve detaylı ağız ve diş sağlığı inceleme ve değerlendirmesini kapsar. 
-                            Detaylı bilgi için bize ulaşabilirsiniz.
+                            Web’e özel ücretsiz saç analizi; sitemiz üzerinden doldurdukları form ile bize ulaşan 
+                            hastalarımızın saç, sakal veya kaş ekimi öncesi ESTE SAĞLIK uzmanları tarafından ücretsiz ve 
+                            detaylı saç sağlığı inceleme ve değerlendirmesini kapsar. Detaylı bilgi için bize ulaşabilirsiniz.
                             {% endblocktrans %}
                         </div>
                    </div>
@@ -44,7 +44,7 @@
                    <div class="card-header accordion-header">
                       <h5 class="mb-0">
                          <button class="btn btn-link btn-block d-flex justify-content-between accordion-collapse-btn collapsed" data-toggle="collapse" data-target="#faq-accordion-2" aria-expanded="false" aria-controls="faq-accordion-2">
-                         {% trans 'Nasıl Randevu Oluşturabilirim?' %}
+                         {% trans 'Saç Ekimi nasıl yapılır?' %}
                          <span class="accordion-arrow">
                          <span class="fa fa-angle-down accordion-arrow-inner"></span>
                          </span>
@@ -53,10 +53,28 @@
                    </div>
                    <div id="faq-accordion-2" class="collapse" data-parent="#faq-accordion">
                         <div class="card-body accordion-body">
-                        {% blocktrans trimmed %}
-                        Randevu oluşturmak için çağrı merkezimizi (+90 264 502 85 05) aramanız veya whatsapp hattımız (+90 530 027 95 32) 
-                        üzerinden bize ulaşmanız yeterli. İletişim birimimiz konuyla ilgili sizi bilgilendirecektir.
-                        {% endblocktrans %}
+                           <p>
+                              {% blocktrans trimmed %}
+                              Saç ekimi ameliyatı üç temel aşamaya ayrılır. Bunlardan ilkisaç köklerinin toplanmasıdır. 
+                              Donör bölgeyi operasyon için hazırladıktan sonra uygun olan saç ekim yöntemi kullanılarak 
+                              saç köklerinin toplanması sağlanır. Aynı zamanda bu aşamada köklere zarar vermemek çok önemlidir. 
+                              Bu köklerin her birine greft adı verilir ve ortalama 2-3 saç kılı içerir. 
+                              {% endblocktrans %}
+                           </p>
+                           <p>
+                           {% blocktrans trimmed %}
+                           İkinci aşama,kanalın açılmasıdır. Bölgeye göre uygun büyüklük ve derinlikte kanallar açılması 
+                           saçların uzama oranını etkileyecektir. Bu açıdan ekilecek saç kökünün boyutu ve uzunluğu göz 
+                           önünde alınarak uygun kanalların açılması önemlidir. 
+                           {% endblocktrans %}
+                           </p>
+                           <p>
+                           {% blocktrans trimmed %}
+                           En doğal görüntüyü elde etmek için kanalın açısı da ayarlanmalıdır. 
+                           Son aşamada ise toplanan kökler 40-45 derecede olan açık kanala yerleştirilerek 
+                           saç ekimi operasyonunun tamamlanması sağlanır. Detaylı bilgi için bizimle iletişime geçebilirsiniz.
+                           {% endblocktrans %}
+                           </p>
                         </div>
                    </div>
                 </div>
@@ -64,7 +82,7 @@
                    <div class="card-header accordion-header">
                       <h5 class="mb-0">
                          <button class="btn btn-link btn-block d-flex justify-content-between accordion-collapse-btn collapsed" data-toggle="collapse" data-target="#faq-accordion-3" aria-expanded="false" aria-controls="faq-accordion-3">
-                         {% trans 'Ödeme yöntemi kolaylıkları nelerdir?' %}
+                         {% trans 'Hangi saç ekim yöntemini tercih etmeliyim?' %}
                          <span class="accordion-arrow">
                          <span class="fa fa-angle-down accordion-arrow-inner"></span>
                          </span>
@@ -73,11 +91,34 @@
                    </div>
                    <div id="faq-accordion-3" class="collapse" data-parent="#faq-accordion">
                       <div class="card-body accordion-body">
-                      {% blocktrans trimmed %}
-                      Maxident tedavi çözümlerinden faydalanan tüm hastalarımız için vadeli ödeme seçeneklerimiz bulunmaktadır. 
-                      Ödeme sürecini talebiniz doğrultusunda özelleştirebiliyoruz. 
-                      Detaylı bilgi için çağrı merkezimiz (+90 264 502 85 05) veya whatsapp hattımız (+90 530 027 95 32) üzerinden bize ulaşabilirsiniz.
-                      {% endblocktrans %}
+                        <p>
+                           {% blocktrans trimmed %}
+                           Her yöntem, hastanın ihtiyaçlarına ve gereksinimlerine göre özel olarak seçilir. 
+                           Doktorlar ve hastalar hangi yöntemin etkili olduğu konusunda ortak bir görüşe sahiptir. 
+                           {% endblocktrans %}
+                        </p>
+                        <p>
+                           {% blocktrans trimmed %}
+                           Safir FUE saç ekimi yönteminde kanal açma aşamasında metal uç yerine özel safir uç kullanılır. 
+                           Bu yöntemi benzersiz kılan, daha küçük mikro kanalların açılmasına izin veren, böylece iyileşme 
+                           sürecini hızlandıran ve kabuklanmaları azaltan bu safir uçlardır. 
+                           {% endblocktrans %}
+                        </p>
+                        <p>
+                           {% blocktrans trimmed %}
+                           Direkt saç ekimi olarak da bilinen DHI saç ekimi yönteminde, choi 
+                           adı verilen medikal bir kalem ile kök kanalının açılması ve ekilmesi 
+                           işlemi aynı anda gerçekleştirilir. Ekilecek saç kökleri kısa süre 
+                           dışarıda kaldığı için ekimin sağlıklı kalması daha olasıdır. 
+                           Aynı zamanda bu yöntem tıraşsız saç ekimi olarak da anılmaktadır. 
+                           {% endblocktrans %}
+                        </p>
+                        <p>
+                           {% blocktrans trimmed %}
+                           Normal FUE saç ekiminde ise mikro-motor kullanılarak toplanan ve ayrılan saç kökleri manuel 
+                           olarak açılan bir kanala ekilir. Detaylı bilgi için bizimle iletişime geçebilirsiniz.
+                           {% endblocktrans %}
+                        </p>
                       </div>
                    </div>
                 </div>
@@ -85,7 +126,7 @@
                    <div class="card-header accordion-header">
                       <h5 class="mb-0">
                          <button class="btn btn-link btn-block d-flex justify-content-between accordion-collapse-btn collapsed" data-toggle="collapse" data-target="#faq-accordion-4" aria-expanded="false" aria-controls="faq-accordion-4">
-                         {% trans 'Özel sağlık sigortaları geçerli mi?' %}
+                         {% trans 'Este Sağlık hakkında bilgi almak istiyorum.' %}
                          <span class="accordion-arrow">
                          <span class="fa fa-angle-down accordion-arrow-inner"></span>
                          </span>
@@ -94,9 +135,29 @@
                    </div>
                    <div id="faq-accordion-4" class="collapse" data-parent="#faq-accordion">
                         <div class="card-body accordion-body">
-                        {% blocktrans trimmed %}
-                        Detaylı bilgi için çağrı merkezimiz (+90 264 502 85 05) veya whatsapp hattımız (+90 530 027 95 32) üzerinden bize ulaşabilirsiniz.
-                        {% endblocktrans %}
+                           <p>
+                              {% blocktrans trimmed %}
+                              Önce sağlık ilkesiyle, Saç ekimi ve Estetik alanında güncel ve en yeni teknoloji, 
+                              konusunda Uzmanlaşmış doktorlarımız, tecrübeli akademik kadromuz ve nitelikli ekibi 
+                              bir araya getirerek, tam teşekküllü hastanelerimizde, tam donanımlı ameliyathanelerimiz 
+                              de 11 yıldır faaliyet gösteren Uluslararası sağlık hizmetleri sunuyoruz. 
+                              {% endblocktrans %}
+                           </p>
+                           <p>
+                              {% blocktrans trimmed %}
+                              Saç ekimi ve Estetik uygulamalarında Uluslararası kalite standartlara ulaşıp ISO 9001-2008 
+                              sertifikasını alarak sunduğu sağlık hizmeti kalitesini tescillemiştir. Ülkemize, yurt dışından 
+                              sağlık turizmi amacıyla gelen misafirlerimize sağlık hizmetlerinin yanı sıra, havalimanından 
+                              karşılama, konaklama, tercüman eşliğinde İstanbul’un tarihi ve kültürel zenginliklerini de görme 
+                              fırsatını sağlayarak, konuklarımızı VIP kalitesinde ağırlamaktayız. 
+                              {% endblocktrans %}
+                           </p>
+                           <p>
+                              {% blocktrans trimmed %}
+                              100’e yakın irtibat ofisleriyle dünya coğrafyasında hedeflenen bilinirliğe ulaşma çalışmaları ile 
+                              kalite yolculuğuna devam etmekte ve JCI akreditasyon çalışmalarını sürdürmektedir.
+                              {% endblocktrans %}
+                           </p>
                         </div>
                    </div>
                 </div>
@@ -104,7 +165,7 @@
                    <div class="card-header accordion-header ">
                       <h5 class="mb-0">
                          <button class="btn btn-link btn-block d-flex justify-content-between accordion-collapse-btn collapsed" data-toggle="collapse" data-target="#faq-accordion-5" aria-expanded="false" aria-controls="faq-accordion-5">
-                         {% trans 'Polikliniğinize nasıl ulaşabilirim?' %}
+                         {% trans 'Nasıl Randevu oluşturabilirim?' %}
                          <span class="accordion-arrow">
                          <span class="fa fa-angle-down accordion-arrow-inner"></span>
                          </span>
@@ -114,7 +175,8 @@
                    <div id="faq-accordion-5" class="collapse" data-parent="#faq-accordion">
                       <div class="card-body accordion-body"> 
                         {% blocktrans trimmed %}
-                        Adresimiz; Arabacıalanı Mahallesi, 608. Sokak, No:15 Serdivan Agora AVM içerisindedir. 
+                        Randevu oluşturmak için çağrı merkezimizi (+90 532 475 37 83) aramanız veya whatsapp hattımız (+90 542 541 37 83) 
+                        üzerinden bize ulaşmanız yeterli. İletişim birimimiz konuyla ilgili sizi bilgilendirecektir.
                         {% endblocktrans %}
                       </div>
                    </div>
