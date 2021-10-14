@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-07 16:05+0300\n"
+"POT-Creation-Date: 2021-10-14 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -153,11 +153,7 @@ msgstr "DHI FUE Hair Transplant"
 msgid "Tıraşsız Saç Ekimi"
 msgstr "Unshaven Hair Transplant"
 
-#: .\templates\components\about.html:283
-msgid "PRP Saç Tedavisi"
-msgstr "PRP Hair Treatment"
-
-#: .\templates\components\about.html:288
+#: .\templates\components\about.html:285
 msgid "Detaylı bilgi için bize ulaşın"
 msgstr "Contact us for more information"
 
