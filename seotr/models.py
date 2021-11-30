@@ -31,3 +31,13 @@ class HomeSeoTr(SeoAbstractModel):
     def __str__(self):
         return self.seo_title
 
+
+class SliderImage(models.Model):
+    image = models.ImageField(verbose_name=_('Slider Görseli'), upload_to="sliders")
+
+    class Meta:
+        verbose_name = _('Slider Görseli')
+        verbose_name_plural = _('Slider Görselleri')
+
+    def __str__(self):
+        return str(self.pk)

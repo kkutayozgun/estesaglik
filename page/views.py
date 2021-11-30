@@ -8,7 +8,7 @@ from django.utils.translation import ugettext_lazy as _
 
 
 from seoen.models import HomeSeoEn
-from seotr.models import HomeSeoTr
+from seotr.models import HomeSeoTr, SliderImage
 
 def home(request):
     template_name = 'home.html'
@@ -16,6 +16,7 @@ def home(request):
 
     context = {
         'home': home_model.objects.all().first(),
+        'sliders': SliderImage.objects.all(),
     }
     return render(request, template_name, context)
 
