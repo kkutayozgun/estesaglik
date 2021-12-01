@@ -9,58 +9,68 @@
 
       {% include 'components/meta.html' with obj=home %}
 
-      
+
       {% block styles %}
         <!-- Css -->
         <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css" media="all"/>
+          <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+          <link rel="stylesheet" href="{% static 'css/gallery_plugins.css' %}">
+          <link rel="stylesheet" href="{% static 'css/gallery.css' %}">
         <link href="{% static 'css/main.css' %}" rel="stylesheet" type="text/css" media="all"/>
-        <!-- <link href="{% static 'css/magnific-popup.css' %}" rel="stylesheet" type="text/css"  media="all" /> -->
         <link href="{% static 'css/fonts.css' %}" rel="stylesheet" type="text/css"  media="all" />
         <link href="https://fonts.googleapis.com/css?family=Nunito:400,400i,600,700" rel="stylesheet">
-      {% endblock styles %}
-          
 
-      
+      {% endblock styles %}
+
+
+
+
+
       {% block extra-styles %}
-          
+
       {% endblock extra-styles %}
-          
+
    </head>
    <body>
-       
+
     <div class="wrapper">
         {% block content %}
-            
+
         {% endblock content %}
 
         {% include 'components/footer.html' %}
-    
-        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=905425413783"><span class=" fab fa-whatsapp"></span></a> 
 
-        <a class="scroll-to-top scroll" href="#wrapper" style="background-color:#00c9a7;"><span class=" fas fa-arrow-up top-icon "></span></a>  
+        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=905425413783"><span class=" fab fa-whatsapp"></span></a>
+
+        <a class="scroll-to-top scroll" href="#wrapper" style="background-color:#00c9a7;"><span class=" fas fa-arrow-up top-icon "></span></a>
     </div>
 
-        
+
       {% block scripts %}
-          <!--Javascript--> 
+          <!--Javascript-->
       <script src="{% static 'js/jquery-1.12.4.min.js' %}" ></script>
       <script src="{% static 'js/bootstrap.min.js' %}"></script>
+      <script src="{% static 'js/gallery_plugins.js' %}"></script>
+      <script src="{% static 'js/gallery.js' %}"></script>
       <script src="{% static 'js/smooth-scroll.js' %}" ></script>
       <script src="{% static 'js/placeholders.min.js' %}"></script>
       <script src="{% static 'js/jquery.magnific-popup.min.js' %}"></script>
       <script src="{% static 'js/jarallax.min.js' %}"></script>
       <script src="{% static 'js/jarallax-element.min.js' %}"></script>
       <script src="{% static 'js/script.js' %}"></script>
+
       <!-- Google analytics -->
       <!-- End google analytics -->
       {% endblock scripts %}
 
-      
+
       {% block extra-scripts %}
-          
+
       {% endblock extra-scripts %}
-          
-          
+
+
    </body>
 </html>
 
